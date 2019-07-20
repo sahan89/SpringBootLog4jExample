@@ -1,0 +1,46 @@
+2019-07-20 20:09:28.014  INFO 49688 --- [main] c.s.l.SpringBootLog4jExampleApplication  : Starting SpringBootLog4jExampleApplication on sahan_laptop with PID 49688 (started by sahan in Z:\Spring Boot Sweden\SpringBootLog4jExample)
+2019-07-20 20:09:28.016  INFO 49688 --- [main] c.s.l.SpringBootLog4jExampleApplication  : No active profile set, falling back to default profiles: default
+2019-07-20 20:09:29.712  INFO 49688 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2019-07-20 20:09:29.756  INFO 49688 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-20 20:09:29.757  INFO 49688 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-20 20:09:29.994  INFO 49688 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-20 20:09:29.994  INFO 49688 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1920 ms
+2019-07-20 20:09:30.330  INFO 49688 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-20 20:09:30.617  INFO 49688 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2019-07-20 20:09:30.621  INFO 49688 --- [main] c.s.l.SpringBootLog4jExampleApplication  : Started SpringBootLog4jExampleApplication in 3.159 seconds (JVM running for 4.247)
+2019-07-20 20:10:13.581  INFO 12444 --- [main] c.s.l.SpringBootLog4jExampleApplication  : Starting SpringBootLog4jExampleApplication on sahan_laptop with PID 12444 (started by sahan in Z:\Spring Boot Sweden\SpringBootLog4jExample)
+2019-07-20 20:10:13.583  INFO 12444 --- [main] c.s.l.SpringBootLog4jExampleApplication  : No active profile set, falling back to default profiles: default
+2019-07-20 20:10:15.386  INFO 12444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2019-07-20 20:10:15.423  INFO 12444 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-20 20:10:15.424  INFO 12444 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-20 20:10:15.602  INFO 12444 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-20 20:10:15.603  INFO 12444 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1955 ms
+2019-07-20 20:10:15.902  INFO 12444 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-20 20:10:16.124  INFO 12444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2019-07-20 20:10:16.129  INFO 12444 --- [main] c.s.l.SpringBootLog4jExampleApplication  : Started SpringBootLog4jExampleApplication in 3.101 seconds (JVM running for 4.165)
+2019-07-20 20:12:25.397  INFO 72288 --- [main] c.s.l.SpringBootLog4jExampleApplication  : Starting SpringBootLog4jExampleApplication on sahan_laptop with PID 72288 (started by sahan in Z:\Spring Boot Sweden\SpringBootLog4jExample)
+2019-07-20 20:12:25.399  INFO 72288 --- [main] c.s.l.SpringBootLog4jExampleApplication  : No active profile set, falling back to default profiles: default
+2019-07-20 20:12:26.962  INFO 72288 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2019-07-20 20:12:27.003  INFO 72288 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-20 20:12:27.004  INFO 72288 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-20 20:12:27.187  INFO 72288 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-20 20:12:27.188  INFO 72288 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1738 ms
+2019-07-20 20:12:27.733  INFO 72288 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-20 20:12:28.438  INFO 72288 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2019-07-20 20:12:28.444  INFO 72288 --- [main] c.s.l.SpringBootLog4jExampleApplication  : Started SpringBootLog4jExampleApplication in 3.755 seconds (JVM running for 5.716)
+2019-07-20 20:12:51.746  INFO 26648 --- [main] c.s.l.SpringBootLog4jExampleApplication  : Starting SpringBootLog4jExampleApplication on sahan_laptop with PID 26648 (started by sahan in Z:\Spring Boot Sweden\SpringBootLog4jExample)
+2019-07-20 20:12:51.748  INFO 26648 --- [main] c.s.l.SpringBootLog4jExampleApplication  : No active profile set, falling back to default profiles: default
+2019-07-20 20:12:53.603  INFO 26648 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2019-07-20 20:12:53.645  INFO 26648 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-20 20:12:53.646  INFO 26648 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-20 20:12:53.897  INFO 26648 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-20 20:12:53.897  INFO 26648 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2064 ms
+2019-07-20 20:12:54.236  INFO 26648 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-20 20:12:54.416  INFO 26648 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2019-07-20 20:12:54.420  INFO 26648 --- [main] c.s.l.SpringBootLog4jExampleApplication  : Started SpringBootLog4jExampleApplication in 3.209 seconds (JVM running for 4.199)
+2019-07-20 20:13:41.548  INFO 26648 --- [http-nio-8085-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-20 20:13:41.548  INFO 26648 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-20 20:13:41.571  INFO 26648 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 23 ms
+2019-07-20 20:13:41.647  INFO 26648 --- [http-nio-8085-exec-1] c.sahan.log4j.controller.MainController  : An INFO Message
+2019-07-20 20:13:41.647  WARN 26648 --- [http-nio-8085-exec-1] c.sahan.log4j.controller.MainController  : A WARN Message
+2019-07-20 20:13:41.647 ERROR 26648 --- [http-nio-8085-exec-1] c.sahan.log4j.controller.MainController  : An ERROR Message
